@@ -1,0 +1,18 @@
+ul{
+	padding: 0;
+}
+
+ul li{
+	list-style: none;
+}
+
+.hx li{
+	float: left;
+	margin-right: 40px;
+
+}
+
+.clear{
+	overflow: hidden;
+}
+

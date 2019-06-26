@@ -1,0 +1,44 @@
+body,html{
+	height: 100%;
+}
+
+#con{
+	
+    height: 100%;
+}
+
+#head{
+	float: left;
+	width: 196px;
+	height: 100%;
+	background-color: #65A4FA;
+}
+
+h1{
+	width: 70px;
+	margin: 0 auto;
+	color: #FFFFFF;
+	padding-top: 70px;
+}
+
+#info{
+	float: left;
+    margin-left: 24px;
+}
+
+ul{
+	padding: 0;
+}
+
+ul li{
+	list-style: none;
+}
+
+.hx li{
+	float: left;
+	margin-right: 40px;
+}
+
+.clear{
+	overflow: hidden;
+}

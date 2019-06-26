@@ -1,0 +1,47 @@
+ul li{
+	list-style: none;
+}
+
+.hx li{
+	float: left;
+	margin-right: 40px;
+
+}
+
+.clear{
+	overflow: hidden;
+	border-top: 1px solid #D8D8D8;
+	height: 120px;
+}
+
+h2{
+	float: left;
+	height: 100%;
+	background-color: #D6D6D6;
+	margin: 0;
+	line-height: 120px;
+	width: 96px;
+	font-size: 16px;
+	text-align: center;
+}
+
+ul{
+	float: left;
+}
+
+#con{
+	border: 1px solid #D8D8D8;
+}
+
+#head{
+	height: 70px;
+	line-height: 70px;
+	background-color: #848484;
+}
+
+h1{
+	display: inline;
+	margin-left: 18px;
+	color: #FFFFFF;
+	font-size: 18px;
+}
